@@ -1,5 +1,5 @@
 # hello-world
-This is a test repository
+This is a test repository, just following the tutorial github has.
 
 - 👋 Hi, I’m @icemann521
 - 👀 I’m interested in ...
